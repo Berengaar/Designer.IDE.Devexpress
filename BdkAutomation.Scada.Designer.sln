@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BdkAutomation.Scada.UI", "BdkAutomation.Scada.UI\BdkAutomation.Scada.UI.csproj", "{9B43595B-C70C-4195-86F4-9F289C3553DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BdkAutomation.Scada.JDAL", "BdkAutomation.Scada.JDAL\BdkAutomation.Scada.JDAL.csproj", "{9FE0A077-700A-4D3D-931D-F6892A02AE62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BdkAutomation.Scada.Models", "BdkAutomation.Scada.Models\BdkAutomation.Scada.Models.csproj", "{EC2517D5-0459-4E46-8864-3FF31CC28446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BdkAutomation.Scada.HelperLayer", "BdkAutomation.Scada.HelperLayer\BdkAutomation.Scada.HelperLayer.csproj", "{8973FD8F-1372-4ABA-875D-6B40B9FC833E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BdkAutomation.Scada.BAL", "BdkAutomation.Scada.BAL\BdkAutomation.Scada.BAL.csproj", "{EEBA08D8-3150-4EAB-95D3-33673A3C2F8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BdkAutomation.Scada.DAL", "BdkAutomation.Scada.DAL\BdkAutomation.Scada.DAL.csproj", "{1F1F8A3E-66FE-4017-A981-61E79FBEF633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B43595B-C70C-4195-86F4-9F289C3553DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B43595B-C70C-4195-86F4-9F289C3553DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B43595B-C70C-4195-86F4-9F289C3553DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B43595B-C70C-4195-86F4-9F289C3553DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FE0A077-700A-4D3D-931D-F6892A02AE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE0A077-700A-4D3D-931D-F6892A02AE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE0A077-700A-4D3D-931D-F6892A02AE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE0A077-700A-4D3D-931D-F6892A02AE62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC2517D5-0459-4E46-8864-3FF31CC28446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2517D5-0459-4E46-8864-3FF31CC28446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2517D5-0459-4E46-8864-3FF31CC28446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2517D5-0459-4E46-8864-3FF31CC28446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8973FD8F-1372-4ABA-875D-6B40B9FC833E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8973FD8F-1372-4ABA-875D-6B40B9FC833E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8973FD8F-1372-4ABA-875D-6B40B9FC833E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8973FD8F-1372-4ABA-875D-6B40B9FC833E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEBA08D8-3150-4EAB-95D3-33673A3C2F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBA08D8-3150-4EAB-95D3-33673A3C2F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBA08D8-3150-4EAB-95D3-33673A3C2F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBA08D8-3150-4EAB-95D3-33673A3C2F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F1F8A3E-66FE-4017-A981-61E79FBEF633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1F8A3E-66FE-4017-A981-61E79FBEF633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1F8A3E-66FE-4017-A981-61E79FBEF633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1F8A3E-66FE-4017-A981-61E79FBEF633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25233FDC-2A40-488E-A397-83037B49407F}
+	EndGlobalSection
+EndGlobal
